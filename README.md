@@ -1,3 +1,3 @@
 # Cartography System Coordinate Conversion
 Python script that converts:
-Tridimentional (X,Y,Z) <-> Geodesic (&psi; | &#868;|,,) <-> Rectangular
+Tridimentional (X,Y,Z) <-> Geodesic (&#968,&#968,&#968) <-> Rectangular
